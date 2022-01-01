@@ -1,3 +1,5 @@
+package src;
+
 public class SwitchControlStatement {
     public static void main(String[] args) {
         // break가 포함되지 않았을 때

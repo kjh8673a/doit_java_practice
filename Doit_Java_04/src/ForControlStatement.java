@@ -1,3 +1,5 @@
+package src;
+
 public class ForControlStatement {
     public static void main(String[] args) {
         // for 문 기본 문법 구조

@@ -1,3 +1,5 @@
+package src;
+
 public class IfControlStatement {
     public static void main(String[] args) {
         // 유형 1: if
