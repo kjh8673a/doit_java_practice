@@ -1,6 +1,6 @@
 {
     "java.project.sourcePaths": [
-        "Doit_Java_07",
-        "Doit_Java_01/src"
+        "Doit_Java_01/src",
+        "Doit_Java_02/src"
     ]
 }
