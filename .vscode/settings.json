@@ -1,10 +1,11 @@
 {
     "java.project.sourcePaths": [
+        "Doit_Java_06",
         "Doit_Java_05",
         "Doit_Java_04",
         "Doit_Java_03",
         "Doit_Java_02/src",
         "Doit_Java_01/src",
-        "Doit_Java_06"
+        "Doit_Java_07"
     ]
 }
