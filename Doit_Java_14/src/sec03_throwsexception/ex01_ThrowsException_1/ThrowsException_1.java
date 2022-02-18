@@ -1,4 +1,4 @@
-package sec03_throwsexception.ex01_ThrowsException;
+package sec03_throwsexception.ex01_ThrowsException_1;
 
 // 1. 하위 메서드에 직접 예외를 처리할 때
 class A {
